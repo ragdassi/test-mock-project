@@ -12,7 +12,7 @@ export default function Home() {
         <section className={styles.section}>
           <h3 className={styles.sectionTitle}>About Me</h3>
           <p className={styles.about}>
-            Ryan Agdassi is a computer science student at California Polytechnic State University - San Luis Obispo studying Computer Science. He is an avid Warriors and Raiders fan.
+            Ryan Agdassi is a computer science student at California Polytechnic State University - San Luis Obispo. 
           </p>
         </section>
 
