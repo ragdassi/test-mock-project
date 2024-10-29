@@ -1,4 +1,5 @@
-Example Project for 2024 Tech Lead Bootcamp
+Mock project - TL Bootcamp 2024
+
 Time estimation: 30 minutes.
 
 ## TLDR - 
