@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
-import "./globals.css";
+import styles from "@styles/globals.module.css";
+import "@components/Navbar.tsx";
+import Navbar from "@components/Navbar";
 
 //! Update metadata to match your project
 export const metadata: Metadata = {
@@ -14,7 +16,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <header className={styles.navbar}>
+        <nav>
+          <Navbar/>
+        </nav>
+      </header>
+        {children}
+      </body>
     </html>
   );
 }
