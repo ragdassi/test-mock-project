@@ -22,15 +22,16 @@ export default function Home() {
             <li>Tech Lead - Hack4Impact</li>
             <li>Full Stack Developer - IntelliSAR, Franz Kurfess&#39; research project at Cal Poly</li>
             <li>Software Developer - RAN, Cal Poly Startup</li>
+            <li>Meeting Facilator - CS+AI</li>
           </ul>
         </section>
 
         <section className={styles.section}>
           <h3 className={styles.sectionTitle}>Skills</h3>
           <ul className={styles.list}>
-            <li>JavaScript, TypeScript</li>
+            <li>JavaScript, TypeScript, Python</li>
             <li>React, Svelte, Next.js, Node.js</li>
-            <li>Python, Java, C, Go</li>
+            <li>Powerlifting</li>
             <li>MongoDB, MySQL, AWS, Azure</li>
           </ul>
         </section>
