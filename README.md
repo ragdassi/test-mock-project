@@ -4,6 +4,7 @@ Time estimation: 30 minutes.
 
 ## Update [11/5]-
 This is most optimal if you do this with your Co-TL! Make sure to give access/invite your Co-TL to your repository (thank you for bringing this up James!)
+This is a low-stakes project and you will likely run into issues, which is cool! This is a nice way to practice traditional GitHub Tech Lead practices (Issues, PRs, Code Reviews, and ... merge conflicts!)
 
 ## TLDR - 
 Phase 1 [You]: Set up and create a homepage in your own GitHub fork. Write a GitHub issue.
