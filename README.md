@@ -2,6 +2,9 @@ Mock project - TL Bootcamp 2024
 
 Time estimation: 30 minutes.
 
+## Update [11/5]-
+This is most optimal if you do this with your Co-TL! Make sure to give access/invite your Co-TL to your repository (thank you for bringing this up James!)
+
 ## TLDR - 
 Phase 1 [You]: Set up and create a homepage in your own GitHub fork. Write a GitHub issue.
 Phase 2 [Teammate]: Clone and contribute to the homepage in your repo by creating a new branch and opening a PR.
